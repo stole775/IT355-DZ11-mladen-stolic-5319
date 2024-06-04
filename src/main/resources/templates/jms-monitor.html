@@ -1,0 +1,17 @@
+<!-- src/main/resources/templates/jms-monitor.html -->
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>JMS Monitor</title>
+</head>
+<body>
+<h1>JMS Monitor</h1>
+<form action="/jms/send" method="post">
+    <label for="destination">Destination:</label>
+    <input type="text" id="destination" name="destination" required>
+    <label for="message">Message:</label>
+    <input type="text" id="message" name="message" required>
+    <button type="submit">Send Message</button>
+</form>
+</body>
+</html>

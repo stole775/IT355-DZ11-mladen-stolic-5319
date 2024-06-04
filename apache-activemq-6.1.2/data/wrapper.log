@@ -1,0 +1,480 @@
+STATUS | wrapper  | 2024/05/27 03:25:06 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/27 03:25:06 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/27 03:25:07 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/27 03:25:07 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/27 03:25:07 | 
+INFO   | jvm 1    | 2024/05/27 03:25:07 | WrapperSimpleApp: Unable to locate the class org.apache.activemq.console.Main: java.lang.UnsupportedClassVersionError: org/apache/activemq/console/Main has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+INFO   | jvm 1    | 2024/05/27 03:25:07 | 
+INFO   | jvm 1    | 2024/05/27 03:25:07 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2024/05/27 03:25:07 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_arguments]
+INFO   | jvm 1    | 2024/05/27 03:25:07 | 
+INFO   | jvm 1    | 2024/05/27 03:25:07 | Where:
+INFO   | jvm 1    | 2024/05/27 03:25:07 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2024/05/27 03:25:07 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2024/05/27 03:25:07 |                   application.
+STATUS | wrapper  | 2024/05/27 03:25:10 | <-- Wrapper Stopped
+STATUS | wrapper  | 2024/05/27 03:26:14 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/27 03:26:14 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/27 03:26:14 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/27 03:26:14 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/27 03:26:14 | 
+INFO   | jvm 1    | 2024/05/27 03:26:14 | WrapperSimpleApp: Unable to locate the class org.apache.activemq.console.Main: java.lang.UnsupportedClassVersionError: org/apache/activemq/console/Main has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+INFO   | jvm 1    | 2024/05/27 03:26:14 | 
+INFO   | jvm 1    | 2024/05/27 03:26:14 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2024/05/27 03:26:14 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_arguments]
+INFO   | jvm 1    | 2024/05/27 03:26:14 | 
+INFO   | jvm 1    | 2024/05/27 03:26:14 | Where:
+INFO   | jvm 1    | 2024/05/27 03:26:14 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2024/05/27 03:26:14 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2024/05/27 03:26:14 |                   application.
+STATUS | wrapper  | 2024/05/27 03:26:17 | <-- Wrapper Stopped
+STATUS | wrapper  | 2024/05/27 03:26:37 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/27 03:26:37 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/27 03:26:37 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/27 03:26:37 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/27 03:26:37 | 
+INFO   | jvm 1    | 2024/05/27 03:26:37 | WrapperSimpleApp: Unable to locate the class org.apache.activemq.console.Main: java.lang.UnsupportedClassVersionError: org/apache/activemq/console/Main has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+INFO   | jvm 1    | 2024/05/27 03:26:37 | 
+INFO   | jvm 1    | 2024/05/27 03:26:37 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2024/05/27 03:26:37 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_arguments]
+INFO   | jvm 1    | 2024/05/27 03:26:37 | 
+INFO   | jvm 1    | 2024/05/27 03:26:37 | Where:
+INFO   | jvm 1    | 2024/05/27 03:26:37 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2024/05/27 03:26:37 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2024/05/27 03:26:37 |                   application.
+STATUS | wrapper  | 2024/05/27 03:26:40 | <-- Wrapper Stopped
+STATUS | wrapper  | 2024/05/27 03:26:45 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/27 03:26:45 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/27 03:26:45 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/27 03:26:45 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/27 03:26:45 | 
+INFO   | jvm 1    | 2024/05/27 03:26:45 | WrapperSimpleApp: Unable to locate the class org.apache.activemq.console.Main: java.lang.UnsupportedClassVersionError: org/apache/activemq/console/Main has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+INFO   | jvm 1    | 2024/05/27 03:26:45 | 
+INFO   | jvm 1    | 2024/05/27 03:26:45 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2024/05/27 03:26:45 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_arguments]
+INFO   | jvm 1    | 2024/05/27 03:26:45 | 
+INFO   | jvm 1    | 2024/05/27 03:26:45 | Where:
+INFO   | jvm 1    | 2024/05/27 03:26:45 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2024/05/27 03:26:45 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2024/05/27 03:26:45 |                   application.
+STATUS | wrapper  | 2024/05/27 03:26:48 | <-- Wrapper Stopped
+STATUS | wrapper  | 2024/05/27 03:52:50 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/27 03:52:50 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/27 03:52:51 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/27 03:52:51 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/27 03:52:51 | 
+INFO   | jvm 1    | 2024/05/27 03:52:51 | WrapperSimpleApp: Unable to locate the class org.apache.activemq.console.Main: java.lang.UnsupportedClassVersionError: org/apache/activemq/console/Main has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+INFO   | jvm 1    | 2024/05/27 03:52:51 | 
+INFO   | jvm 1    | 2024/05/27 03:52:51 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2024/05/27 03:52:51 |   java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_arguments]
+INFO   | jvm 1    | 2024/05/27 03:52:51 | 
+INFO   | jvm 1    | 2024/05/27 03:52:51 | Where:
+INFO   | jvm 1    | 2024/05/27 03:52:51 |   app_class:      The fully qualified class name of the application to run.
+INFO   | jvm 1    | 2024/05/27 03:52:51 |   app_arguments:  The arguments that would normally be passed to the
+INFO   | jvm 1    | 2024/05/27 03:52:51 |                   application.
+STATUS | wrapper  | 2024/05/27 03:52:53 | <-- Wrapper Stopped
+STATUS | wrapper  | 2024/05/27 04:02:03 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/27 04:02:03 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/27 04:02:04 | NOTE: Picked up JDK_JAVA_OPTIONS: --add-reads=java.xml=java.logging --add-opens java.base/java.security=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.util.concurrent=ALL-UNNAMED --add-opens java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens java.naming/javax.naming.spi=ALL-UNNAMED --add-opens java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED
+INFO   | jvm 1    | 2024/05/27 04:02:04 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/27 04:02:04 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/27 04:02:04 | 
+INFO   | jvm 1    | 2024/05/27 04:02:04 | Java Runtime: Oracle Corporation 17.0.10 C:\Program Files\Java\jdk-17
+INFO   | jvm 1    | 2024/05/27 04:02:04 |   Heap sizes: current=1048576k  free=1037312k  max=1048576k
+INFO   | jvm 1    | 2024/05/27 04:02:04 |     JVM args: --add-reads=java.xml=java.logging --add-opens=java.base/java.security=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.naming/javax.naming.spi=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED -Dactivemq.home=../.. -Dactivemq.base=../.. -Djavax.net.ssl.keyStorePassword=password -Djavax.net.ssl.trustStorePassword=password -Djavax.net.ssl.keyStore=../../conf/broker.ks -Djavax.net.ssl.trustStore=../../conf/broker.ts -Dcom.sun.management.jmxremote -Dorg.apache.activemq.UseDedicatedTaskRunner=false -Djava.util.logging.config.file=logging.properties -Dactivemq.conf=../../conf -Dactivemq.data=../../data -Djava.security.auth.login.config=../../conf/login.config -Djolokia.conf=file:..\\..\\conf\\jolokia-access.xml -Xms1024m -Xmx1024m -Djava.library.path=../../bin/win64 -Dwrapper.key=JX7MDYTaq5QyxStO -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=14208 -Dwrapper.version=3.2.3 -Dwrapper.native_library=wrapper -Dwrapper.cpu.timeout=10 -Dwrapper.jvmid=1
+INFO   | jvm 1    | 2024/05/27 04:02:04 | Extensions classpath:
+INFO   | jvm 1    | 2024/05/27 04:02:04 |   [..\..\lib,..\..\lib\camel,..\..\lib\optional,..\..\lib\web,..\..\lib\extra]
+INFO   | jvm 1    | 2024/05/27 04:02:04 | ACTIVEMQ_HOME: ..\..
+INFO   | jvm 1    | 2024/05/27 04:02:04 | ACTIVEMQ_BASE: ..\..
+INFO   | jvm 1    | 2024/05/27 04:02:04 | ACTIVEMQ_CONF: ..\..\conf
+INFO   | jvm 1    | 2024/05/27 04:02:04 | ACTIVEMQ_DATA: ..\..\data
+INFO   | jvm 1    | 2024/05/27 04:02:05 | Loading message broker from: xbean:activemq.xml
+INFO   | jvm 1    | 2024/05/27 04:02:06 |  INFO | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/05/27 04:02:06 |  INFO | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/05/27 04:02:06 |  INFO | Starting KahaDBStore
+INFO   | jvm 1    | 2024/05/27 04:02:06 |  INFO | Opening MessageDatabase
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Starting Temp Data Store
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Starting Job Scheduler Store
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Persistence Adapter successfully started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-49811-1716775327030-0:1) is starting
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Connector openwire started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Connector amqp started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Connector stomp started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Connector mqtt started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Starting Jetty server
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Creating Jetty connector
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  WARN | ServletContext@o.e.j.s.ServletContextHandler@46b7f946{/,null,STARTING} has uncovered HTTP methods for the following paths: [/]
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Connector ws started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-49811-1716775327030-0:1) started
+INFO   | jvm 1    | 2024/05/27 04:02:07 |  INFO | For help or more information please see: http://activemq.apache.org
+INFO   | jvm 1    | 2024/05/27 04:02:09 |  INFO | ActiveMQ WebConsole available at http://127.0.0.1:8161/
+INFO   | jvm 1    | 2024/05/27 04:02:09 |  INFO | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/
+STATUS | wrapper  | 2024/05/29 14:56:28 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/29 14:56:28 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/29 14:56:29 | NOTE: Picked up JDK_JAVA_OPTIONS: --add-reads=java.xml=java.logging --add-opens java.base/java.security=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.util.concurrent=ALL-UNNAMED --add-opens java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens java.naming/javax.naming.spi=ALL-UNNAMED --add-opens java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED
+INFO   | jvm 1    | 2024/05/29 14:56:29 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/29 14:56:29 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/29 14:56:29 | 
+INFO   | jvm 1    | 2024/05/29 14:56:29 | Java Runtime: Oracle Corporation 17.0.10 C:\Program Files\Java\jdk-17
+INFO   | jvm 1    | 2024/05/29 14:56:29 |   Heap sizes: current=1048576k  free=1037312k  max=1048576k
+INFO   | jvm 1    | 2024/05/29 14:56:29 |     JVM args: --add-reads=java.xml=java.logging --add-opens=java.base/java.security=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.naming/javax.naming.spi=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED -Dactivemq.home=../.. -Dactivemq.base=../.. -Djavax.net.ssl.keyStorePassword=password -Djavax.net.ssl.trustStorePassword=password -Djavax.net.ssl.keyStore=../../conf/broker.ks -Djavax.net.ssl.trustStore=../../conf/broker.ts -Dcom.sun.management.jmxremote -Dorg.apache.activemq.UseDedicatedTaskRunner=false -Djava.util.logging.config.file=logging.properties -Dactivemq.conf=../../conf -Dactivemq.data=../../data -Djava.security.auth.login.config=../../conf/login.config -Djolokia.conf=file:..\\..\\conf\\jolokia-access.xml -Xms1024m -Xmx1024m -Djava.library.path=../../bin/win64 -Dwrapper.key=0E0Dt6uBEjAp56JH -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=1236 -Dwrapper.version=3.2.3 -Dwrapper.native_library=wrapper -Dwrapper.cpu.timeout=10 -Dwrapper.jvmid=1
+INFO   | jvm 1    | 2024/05/29 14:56:29 | Extensions classpath:
+INFO   | jvm 1    | 2024/05/29 14:56:29 |   [..\..\lib,..\..\lib\camel,..\..\lib\optional,..\..\lib\web,..\..\lib\extra]
+INFO   | jvm 1    | 2024/05/29 14:56:29 | ACTIVEMQ_HOME: ..\..
+INFO   | jvm 1    | 2024/05/29 14:56:29 | ACTIVEMQ_BASE: ..\..
+INFO   | jvm 1    | 2024/05/29 14:56:29 | ACTIVEMQ_CONF: ..\..\conf
+INFO   | jvm 1    | 2024/05/29 14:56:29 | ACTIVEMQ_DATA: ..\..\data
+INFO   | jvm 1    | 2024/05/29 14:56:30 | Loading message broker from: xbean:activemq.xml
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Starting KahaDBStore
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Opening MessageDatabase
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown..
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | KahaDB is version 7
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Starting Temp Data Store
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Starting Job Scheduler Store
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Persistence Adapter successfully started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50712-1716987392323-0:1) is starting
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Connector openwire started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Connector amqp started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Connector stomp started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Connector mqtt started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Starting Jetty server
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Creating Jetty connector
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  WARN | ServletContext@o.e.j.s.ServletContextHandler@3e479a26{/,null,STARTING} has uncovered HTTP methods for the following paths: [/]
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Connector ws started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50712-1716987392323-0:1) started
+INFO   | jvm 1    | 2024/05/29 14:56:32 |  INFO | For help or more information please see: http://activemq.apache.org
+INFO   | jvm 1    | 2024/05/29 14:56:33 |  INFO | ActiveMQ WebConsole available at http://127.0.0.1:8161/
+INFO   | jvm 1    | 2024/05/29 14:56:33 |  INFO | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/
+INFO   | jvm 1    | 2024/05/29 15:21:12 |  INFO | Connector vm://localhost started
+INFO   | jvm 1    | 2024/05/29 15:21:23 |  WARN | /admin/deleteDestination.action
+INFO   | jvm 1    | 2024/05/29 15:21:23 | jakarta.servlet.ServletException: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.Server.handle(Server.java:563) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501) [jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287) [jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314) [jetty-io-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100) [jetty-io-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53) [jetty-io-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:421) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:390) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:277) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run(AdaptiveExecutionStrategy.java:199) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:411) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at java.base/java.lang.Thread.run(Thread.java:842) [?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | Caused by: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	... 18 more
+INFO   | jvm 1    | 2024/05/29 15:21:23 | Caused by: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1022) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:500) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHolder$NotAsync.service(ServletHolder.java:1419) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(ServletHandler.java:1665) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.apache.activemq.web.AuditFilter.doFilter(AuditFilter.java:59) ~[activemq-web-6.1.2.jar:6.1.2]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.apache.activemq.web.filter.ApplicationContextFilter.doFilter(ApplicationContextFilter.java:102) ~[?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:210) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:527) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	... 18 more
+INFO   | jvm 1    | 2024/05/29 15:21:23 | Caused by: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.apache.activemq.web.handler.BindingBeanNameUrlHandlerMapping.getHandlerInternal(BindingBeanNameUrlHandlerMapping.java:59) ~[?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:507) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:500) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHolder$NotAsync.service(ServletHolder.java:1419) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(ServletHandler.java:1665) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.apache.activemq.web.AuditFilter.doFilter(AuditFilter.java:59) ~[activemq-web-6.1.2.jar:6.1.2]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.apache.activemq.web.filter.ApplicationContextFilter.doFilter(ApplicationContextFilter.java:102) ~[?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:210) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:527) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:23 | 	... 18 more
+INFO   | jvm 1    | 2024/05/29 15:21:27 |  WARN | /admin/deleteDestination.action
+INFO   | jvm 1    | 2024/05/29 15:21:27 | jakarta.servlet.ServletException: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.Server.handle(Server.java:563) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501) [jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287) [jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314) [jetty-io-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100) [jetty-io-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53) [jetty-io-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:421) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:390) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:277) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run(AdaptiveExecutionStrategy.java:199) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:411) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149) [jetty-util-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at java.base/java.lang.Thread.run(Thread.java:842) [?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | Caused by: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	... 18 more
+INFO   | jvm 1    | 2024/05/29 15:21:27 | Caused by: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1022) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:500) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHolder$NotAsync.service(ServletHolder.java:1419) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(ServletHandler.java:1665) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.apache.activemq.web.AuditFilter.doFilter(AuditFilter.java:59) ~[activemq-web-6.1.2.jar:6.1.2]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.apache.activemq.web.filter.ApplicationContextFilter.doFilter(ApplicationContextFilter.java:102) ~[?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:210) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:527) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	... 18 more
+INFO   | jvm 1    | 2024/05/29 15:21:27 | Caused by: java.lang.UnsupportedOperationException: Possible CSRF attack
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.apache.activemq.web.handler.BindingBeanNameUrlHandlerMapping.getHandlerInternal(BindingBeanNameUrlHandlerMapping.java:59) ~[?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:507) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:500) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587) ~[jetty-jakarta-servlet-api-5.0.2.jar:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHolder$NotAsync.service(ServletHolder.java:1419) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(ServletHandler.java:1665) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.apache.activemq.web.AuditFilter.doFilter(AuditFilter.java:59) ~[activemq-web-6.1.2.jar:6.1.2]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.apache.activemq.web.filter.ApplicationContextFilter.doFilter(ApplicationContextFilter.java:102) ~[?:?]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:210) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:527) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484) ~[jetty-servlet-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558) ~[jetty-security-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141) ~[jetty-server-11.0.20.jar:11.0.20]
+INFO   | jvm 1    | 2024/05/29 15:21:27 | 	... 18 more
+INFO   | jvm 1    | 2024/05/29 15:51:33 |  INFO | Connector vm://localhost stopped
+STATUS | wrapper  | 2024/05/29 17:18:19 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/29 17:18:19 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/29 17:18:20 | NOTE: Picked up JDK_JAVA_OPTIONS: --add-reads=java.xml=java.logging --add-opens java.base/java.security=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.util.concurrent=ALL-UNNAMED --add-opens java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens java.naming/javax.naming.spi=ALL-UNNAMED --add-opens java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED
+STATUS | wrapper  | 2024/05/29 17:18:20 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/05/29 17:18:20 | Launching a JVM...
+INFO   | jvm 1    | 2024/05/29 17:18:20 | NOTE: Picked up JDK_JAVA_OPTIONS: --add-reads=java.xml=java.logging --add-opens java.base/java.security=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.util.concurrent=ALL-UNNAMED --add-opens java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens java.naming/javax.naming.spi=ALL-UNNAMED --add-opens java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED
+INFO   | jvm 1    | 2024/05/29 17:18:20 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/29 17:18:20 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/29 17:18:20 | 
+INFO   | jvm 1    | 2024/05/29 17:18:21 | Java Runtime: Oracle Corporation 17.0.10 C:\Program Files\Java\jdk-17
+INFO   | jvm 1    | 2024/05/29 17:18:21 |   Heap sizes: current=1048576k  free=1036288k  max=1048576k
+INFO   | jvm 1    | 2024/05/29 17:18:21 |     JVM args: --add-reads=java.xml=java.logging --add-opens=java.base/java.security=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.naming/javax.naming.spi=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED -Dactivemq.home=../.. -Dactivemq.base=../.. -Djavax.net.ssl.keyStorePassword=password -Djavax.net.ssl.trustStorePassword=password -Djavax.net.ssl.keyStore=../../conf/broker.ks -Djavax.net.ssl.trustStore=../../conf/broker.ts -Dcom.sun.management.jmxremote -Dorg.apache.activemq.UseDedicatedTaskRunner=false -Djava.util.logging.config.file=logging.properties -Dactivemq.conf=../../conf -Dactivemq.data=../../data -Djava.security.auth.login.config=../../conf/login.config -Djolokia.conf=file:..\\..\\conf\\jolokia-access.xml -Xms1024m -Xmx1024m -Djava.library.path=../../bin/win64 -Dwrapper.key=AkwOt2mxyG9ICPaE -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=12812 -Dwrapper.version=3.2.3 -Dwrapper.native_library=wrapper -Dwrapper.cpu.timeout=10 -Dwrapper.jvmid=1
+INFO   | jvm 1    | 2024/05/29 17:18:21 | Extensions classpath:
+INFO   | jvm 1    | 2024/05/29 17:18:21 |   [..\..\lib,..\..\lib\camel,..\..\lib\optional,..\..\lib\web,..\..\lib\extra]
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_HOME: ..\..
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_BASE: ..\..
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_CONF: ..\..\conf
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_DATA: ..\..\data
+INFO   | jvm 1    | 2024/05/29 17:18:21 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/05/29 17:18:21 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/05/29 17:18:21 | 
+INFO   | jvm 1    | 2024/05/29 17:18:21 | Java Runtime: Oracle Corporation 17.0.10 C:\Program Files\Java\jdk-17
+INFO   | jvm 1    | 2024/05/29 17:18:21 |   Heap sizes: current=1048576k  free=1037312k  max=1048576k
+INFO   | jvm 1    | 2024/05/29 17:18:21 |     JVM args: --add-reads=java.xml=java.logging --add-opens=java.base/java.security=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.naming/javax.naming.spi=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED -Dactivemq.home=../.. -Dactivemq.base=../.. -Djavax.net.ssl.keyStorePassword=password -Djavax.net.ssl.trustStorePassword=password -Djavax.net.ssl.keyStore=../../conf/broker.ks -Djavax.net.ssl.trustStore=../../conf/broker.ts -Dcom.sun.management.jmxremote -Dorg.apache.activemq.UseDedicatedTaskRunner=false -Djava.util.logging.config.file=logging.properties -Dactivemq.conf=../../conf -Dactivemq.data=../../data -Djava.security.auth.login.config=../../conf/login.config -Djolokia.conf=file:..\\..\\conf\\jolokia-access.xml -Xms1024m -Xmx1024m -Djava.library.path=../../bin/win64 -Dwrapper.key=oUzwPwPL_0OdVrgi -Dwrapper.port=32001 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=9676 -Dwrapper.version=3.2.3 -Dwrapper.native_library=wrapper -Dwrapper.cpu.timeout=10 -Dwrapper.jvmid=1
+INFO   | jvm 1    | 2024/05/29 17:18:21 | Extensions classpath:
+INFO   | jvm 1    | 2024/05/29 17:18:21 |   [..\..\lib,..\..\lib\camel,..\..\lib\optional,..\..\lib\web,..\..\lib\extra]
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_HOME: ..\..
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_BASE: ..\..
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_CONF: ..\..\conf
+INFO   | jvm 1    | 2024/05/29 17:18:21 | ACTIVEMQ_DATA: ..\..\data
+INFO   | jvm 1    | 2024/05/29 17:18:22 | Loading message broker from: xbean:activemq.xml
+INFO   | jvm 1    | 2024/05/29 17:18:22 | Loading message broker from: xbean:activemq.xml
+INFO   | jvm 1    | 2024/05/29 17:18:23 |  INFO | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/05/29 17:18:23 |  INFO | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/05/29 17:18:23 |  INFO | Starting KahaDBStore
+INFO   | jvm 1    | 2024/05/29 17:18:23 |  INFO | Opening MessageDatabase
+INFO   | jvm 1    | 2024/05/29 17:18:23 |  INFO | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown..
+INFO   | jvm 1    | 2024/05/29 17:18:23 |  INFO | KahaDB is version 7
+INFO   | jvm 1    | 2024/05/29 17:18:23 |  INFO | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Starting Temp Data Store
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Starting Job Scheduler Store
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Persistence Adapter successfully started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50679-1716995904091-0:1) is starting
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Connector openwire started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Connector amqp started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Connector stomp started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Connector mqtt started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Starting Jetty server
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Creating Jetty connector
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  WARN | ServletContext@o.e.j.s.ServletContextHandler@2fb5a094{/,null,STARTING} has uncovered HTTP methods for the following paths: [/]
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Connector ws started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50679-1716995904091-0:1) started
+INFO   | jvm 1    | 2024/05/29 17:18:24 |  INFO | For help or more information please see: http://activemq.apache.org
+INFO   | jvm 1    | 2024/05/29 17:18:26 |  INFO | ActiveMQ WebConsole available at http://127.0.0.1:8161/
+INFO   | jvm 1    | 2024/05/29 17:18:26 |  INFO | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/
+STATUS | wrapper  | 2024/06/04 15:42:53 | --> Wrapper Started as Console
+STATUS | wrapper  | 2024/06/04 15:42:53 | Launching a JVM...
+INFO   | jvm 1    | 2024/06/04 15:42:53 | NOTE: Picked up JDK_JAVA_OPTIONS: --add-reads=java.xml=java.logging --add-opens java.base/java.security=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.util.concurrent=ALL-UNNAMED --add-opens java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens java.naming/javax.naming.spi=ALL-UNNAMED --add-opens java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED
+INFO   | jvm 1    | 2024/06/04 15:42:54 | Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+INFO   | jvm 1    | 2024/06/04 15:42:54 |   Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+INFO   | jvm 1    | 2024/06/04 15:42:54 | 
+INFO   | jvm 1    | 2024/06/04 15:42:54 | Java Runtime: Oracle Corporation 17.0.10 C:\Program Files\Java\jdk-17
+INFO   | jvm 1    | 2024/06/04 15:42:54 |   Heap sizes: current=1048576k  free=1037312k  max=1048576k
+INFO   | jvm 1    | 2024/06/04 15:42:54 |     JVM args: --add-reads=java.xml=java.logging --add-opens=java.base/java.security=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.naming/javax.naming.spi=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport.tcp=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.http=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.https=ALL-UNNAMED --add-exports=java.base/sun.net.www.protocol.jar=ALL-UNNAMED --add-exports=jdk.xml.dom/org.w3c.dom.html=ALL-UNNAMED --add-exports=jdk.naming.rmi/com.sun.jndi.url.rmi=ALL-UNNAMED -Dactivemq.home=../.. -Dactivemq.base=../.. -Djavax.net.ssl.keyStorePassword=password -Djavax.net.ssl.trustStorePassword=password -Djavax.net.ssl.keyStore=../../conf/broker.ks -Djavax.net.ssl.trustStore=../../conf/broker.ts -Dcom.sun.management.jmxremote -Dorg.apache.activemq.UseDedicatedTaskRunner=false -Djava.util.logging.config.file=logging.properties -Dactivemq.conf=../../conf -Dactivemq.data=../../data -Djava.security.auth.login.config=../../conf/login.config -Djolokia.conf=file:..\\..\\conf\\jolokia-access.xml -Xms1024m -Xmx1024m -Djava.library.path=../../bin/win64 -Dwrapper.key=lr9Fy7SUnAwacLF1 -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=11124 -Dwrapper.version=3.2.3 -Dwrapper.native_library=wrapper -Dwrapper.cpu.timeout=10 -Dwrapper.jvmid=1
+INFO   | jvm 1    | 2024/06/04 15:42:54 | Extensions classpath:
+INFO   | jvm 1    | 2024/06/04 15:42:54 |   [..\..\lib,..\..\lib\camel,..\..\lib\optional,..\..\lib\web,..\..\lib\extra]
+INFO   | jvm 1    | 2024/06/04 15:42:54 | ACTIVEMQ_HOME: ..\..
+INFO   | jvm 1    | 2024/06/04 15:42:54 | ACTIVEMQ_BASE: ..\..
+INFO   | jvm 1    | 2024/06/04 15:42:54 | ACTIVEMQ_CONF: ..\..\conf
+INFO   | jvm 1    | 2024/06/04 15:42:54 | ACTIVEMQ_DATA: ..\..\data
+INFO   | jvm 1    | 2024/06/04 15:42:55 | Loading message broker from: xbean:activemq.xml
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb]
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Starting KahaDBStore
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Opening MessageDatabase
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown..
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | KahaDB is version 7
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Starting Temp Data Store
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Starting Job Scheduler Store
+INFO   | jvm 1    | 2024/06/04 15:42:56 |  INFO | Persistence Adapter successfully started
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-51560-1717508576755-0:1) is starting
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Connector openwire started
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Connector amqp started
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Connector stomp started
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Connector mqtt started
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Starting Jetty server
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Creating Jetty connector
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  WARN | ServletContext@o.e.j.s.ServletContextHandler@180ef0e9{/,null,STARTING} has uncovered HTTP methods for the following paths: [/]
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Connector ws started
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-51560-1717508576755-0:1) started
+INFO   | jvm 1    | 2024/06/04 15:42:57 |  INFO | For help or more information please see: http://activemq.apache.org
+INFO   | jvm 1    | 2024/06/04 15:42:58 |  INFO | ActiveMQ WebConsole available at http://127.0.0.1:8161/
+INFO   | jvm 1    | 2024/06/04 15:42:58 |  INFO | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/

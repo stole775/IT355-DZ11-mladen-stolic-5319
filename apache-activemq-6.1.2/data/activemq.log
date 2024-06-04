@@ -1,0 +1,253 @@
+2024-05-27 04:02:06,683 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:06,699 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:06,738 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2024-05-27 04:02:06,739 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2024-05-27 04:02:07,013 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:07,014 | INFO  | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2024-05-27 04:02:07,014 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:07,014 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:07,181 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-49811-1716775327030-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:07,213 | INFO  | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-27 04:02:07,214 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-27 04:02:07,220 | INFO  | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-27 04:02:07,221 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-27 04:02:07,227 | INFO  | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-27 04:02:07,228 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-27 04:02:07,234 | INFO  | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-27 04:02:07,234 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-27 04:02:07,242 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-05-27 04:02:07,349 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-05-27 04:02:07,539 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@46b7f946{/,null,STARTING} has uncovered HTTP methods for the following paths: [/] | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2024-05-27 04:02:07,649 | INFO  | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2024-05-27 04:02:07,649 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-27 04:02:07,649 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-49811-1716775327030-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:07,649 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-27 04:02:09,051 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2024-05-27 04:02:09,051 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2024-05-29 14:56:32,060 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:32,068 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:32,097 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2024-05-29 14:56:32,098 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2024-05-29 14:56:32,145 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2024-05-29 14:56:32,150 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2024-05-29 14:56:32,157 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2024-05-29 14:56:32,309 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:32,310 | INFO  | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2024-05-29 14:56:32,310 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:32,310 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:32,473 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50712-1716987392323-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:32,562 | INFO  | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 14:56:32,562 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 14:56:32,569 | INFO  | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 14:56:32,569 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 14:56:32,573 | INFO  | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 14:56:32,575 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 14:56:32,580 | INFO  | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 14:56:32,580 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 14:56:32,589 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-05-29 14:56:32,664 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-05-29 14:56:32,794 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@3e479a26{/,null,STARTING} has uncovered HTTP methods for the following paths: [/] | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2024-05-29 14:56:32,903 | INFO  | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2024-05-29 14:56:32,904 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 14:56:32,904 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50712-1716987392323-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:32,904 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 14:56:33,899 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2024-05-29 14:56:33,899 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2024-05-29 15:21:12,543 | INFO  | Connector vm://localhost started | org.apache.activemq.broker.TransportConnector | qtp546552268-64
+2024-05-29 15:21:23,274 | WARN  | /admin/deleteDestination.action | org.eclipse.jetty.server.HttpChannel | qtp546552268-168
+jakarta.servlet.ServletException: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.Server.handle(Server.java:563)
+	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100)
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:421)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:390)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:277)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run(AdaptiveExecutionStrategy.java:199)
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:411)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141)
+	... 18 more
+Caused by: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1022)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:500)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at org.eclipse.jetty.servlet.ServletHolder$NotAsync.service(ServletHolder.java:1419)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764)
+	at org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(ServletHandler.java:1665)
+	at org.apache.activemq.web.AuditFilter.doFilter(AuditFilter.java:59)
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202)
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202)
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635)
+	at org.apache.activemq.web.filter.ApplicationContextFilter.doFilter(ApplicationContextFilter.java:102)
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:210)
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:527)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141)
+	... 20 more
+Caused by: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.apache.activemq.web.handler.BindingBeanNameUrlHandlerMapping.getHandlerInternal(BindingBeanNameUrlHandlerMapping.java:59)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:507)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	... 52 more
+2024-05-29 15:21:26,992 | WARN  | /admin/deleteDestination.action | org.eclipse.jetty.server.HttpChannel | qtp546552268-86
+jakarta.servlet.ServletException: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.Server.handle(Server.java:563)
+	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100)
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:421)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:390)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:277)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run(AdaptiveExecutionStrategy.java:199)
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:411)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: jakarta.servlet.ServletException: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:157)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141)
+	... 18 more
+Caused by: jakarta.servlet.ServletException: Request processing failed: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1022)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:500)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at org.eclipse.jetty.servlet.ServletHolder$NotAsync.service(ServletHolder.java:1419)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764)
+	at org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(ServletHandler.java:1665)
+	at org.apache.activemq.web.AuditFilter.doFilter(AuditFilter.java:59)
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202)
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:202)
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635)
+	at org.apache.activemq.web.filter.ApplicationContextFilter.doFilter(ApplicationContextFilter.java:102)
+	at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:210)
+	at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1635)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:527)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:131)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:558)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:223)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:141)
+	... 20 more
+Caused by: java.lang.UnsupportedOperationException: Possible CSRF attack
+	at org.apache.activemq.web.handler.BindingBeanNameUrlHandlerMapping.getHandlerInternal(BindingBeanNameUrlHandlerMapping.java:59)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:507)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	... 52 more
+2024-05-29 15:51:33,706 | INFO  | Connector vm://localhost stopped | org.apache.activemq.broker.TransportConnector | Session-HouseKeeper-303b1fdc-1
+2024-05-29 17:18:23,812 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:23,819 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:23,851 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2024-05-29 17:18:23,851 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2024-05-29 17:18:23,900 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2024-05-29 17:18:23,904 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2024-05-29 17:18:23,912 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2024-05-29 17:18:24,075 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:24,076 | INFO  | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2024-05-29 17:18:24,076 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:24,076 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:24,237 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50679-1716995904091-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:24,338 | INFO  | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 17:18:24,339 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 17:18:24,347 | INFO  | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 17:18:24,348 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 17:18:24,354 | INFO  | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 17:18:24,354 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 17:18:24,362 | INFO  | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-05-29 17:18:24,362 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 17:18:24,371 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-05-29 17:18:24,453 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-05-29 17:18:24,638 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@2fb5a094{/,null,STARTING} has uncovered HTTP methods for the following paths: [/] | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2024-05-29 17:18:24,758 | INFO  | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2024-05-29 17:18:24,758 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-05-29 17:18:24,758 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-50679-1716995904091-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:24,758 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-05-29 17:18:26,148 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2024-05-29 17:18:26,149 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2024-06-04 15:42:56,512 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:56,519 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:56,547 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2024-06-04 15:42:56,547 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2024-06-04 15:42:56,590 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2024-06-04 15:42:56,595 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2024-06-04 15:42:56,604 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2024-06-04 15:42:56,745 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:56,746 | INFO  | PListStore:[C:\Users\Mladen\Desktop\IT355-DZ11\apache-activemq-6.1.2\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2024-06-04 15:42:56,746 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:56,746 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:56,901 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-51560-1717508576755-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:57,017 | INFO  | Listening for connections at: tcp://Mladen:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-06-04 15:42:57,018 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-06-04 15:42:57,025 | INFO  | Listening for connections at: amqp://Mladen:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-06-04 15:42:57,026 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-06-04 15:42:57,031 | INFO  | Listening for connections at: stomp://Mladen:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-06-04 15:42:57,031 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-06-04 15:42:57,037 | INFO  | Listening for connections at: mqtt://Mladen:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2024-06-04 15:42:57,037 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-06-04 15:42:57,045 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-06-04 15:42:57,109 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2024-06-04 15:42:57,243 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@180ef0e9{/,null,STARTING} has uncovered HTTP methods for the following paths: [/] | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2024-06-04 15:42:57,354 | INFO  | Listening for connections at ws://Mladen:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2024-06-04 15:42:57,354 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2024-06-04 15:42:57,354 | INFO  | Apache ActiveMQ 6.1.2 (localhost, ID:Mladen-51560-1717508576755-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:57,354 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2024-06-04 15:42:58,385 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2024-06-04 15:42:58,385 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
